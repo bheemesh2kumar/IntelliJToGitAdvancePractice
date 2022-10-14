@@ -1,0 +1,2 @@
+# IntelliJToGitAdvancePractice
+IntelliJToGitAdvancePractice
